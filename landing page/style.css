@@ -1,0 +1,118 @@
+body{
+    max-width: 90%;
+    margin: 0 auto;
+
+    background-color:rgb(34,34,34);
+    color: white;
+}
+
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header div{
+    font-size: 30px;
+    line-height: 0px;
+}
+
+#logo{
+    color: burlywood;
+}
+
+main{
+    padding-top: 20px;
+    margin-top: 20px;
+}
+
+aside{
+    max-width: 90%;
+}
+
+aside h1{
+    text-transform: uppercase;
+    font-size: 30px;
+}
+
+aside p{
+    text-align: justify;
+    text-indent: 15px;
+}
+
+#seja{
+    color: purple;
+}
+
+/*-----------------------------------------------------------*/
+
+img{
+    height: 400px;
+    margin-right: 110px;
+}
+
+main{
+    display: flex;
+    flex-direction: row;
+
+    justify-content:space-between;
+    align-items: flex-start;
+}
+
+main div{
+    max-width: 50%;
+}
+
+
+ul{
+    font-size: small;
+}
+
+li{
+    display: inline-block;
+    list-style-type: none;
+
+    padding: 10px;
+
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+a:hover{
+    color: purple;
+    transition: 300ms;
+}
+
+#borda{
+    border: 2px solid gray;
+    border-radius: 999px;
+    
+}
+
+form{
+    padding-top: 10px;
+    max-width: 80%;
+
+    margin: 20px;
+
+}
+
+input{
+    display: block;
+    padding: 10px;
+    margin: 10px 10px 10px 0px;
+
+    padding-right: 30px;
+    border-radius: 30px;
+
+    border: none;
+}
+
+#enviar{
+    background-color: purple ;
+}
+
