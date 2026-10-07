@@ -67,18 +67,6 @@ O propósito deste projeto no meu portfólio é demonstrar a base de desenvolvim
 
 ---
 
-## 🚀 Próximos Passos (Roadmap de Evolução)
-
-Como este projeto reflete minha evolução contínua, as seguintes melhorias estão planejadas:
-
-- [ ] **Responsividade Completa:** Implementar *Media Queries* para adaptação mobile-first (smartphones e tablets).
-- [ ] **Interatividade com JavaScript:** Validação dinâmica dos campos do formulário antes do envio.
-- [ ] **Menu Hambúrguer:** Tornar o menu de navegação expansível em telas menores.
-- [ ] **Variáveis CSS (`:root`):** Refatorar o CSS para centralizar paleta de cores e espaçamentos em variáveis reutilizáveis.
-- [ ] **Acessibilidade (a11y):** Inclusão de atributos `alt` descritivos nas imagens e labels acessíveis nos campos de formulário.
-
----
-
 ## 💻 Como Executar o Projeto Localmente
 
 > **Nota:** Este projeto não possui deploy online e está disponível exclusivamente através deste repositório no GitHub.
