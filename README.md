@@ -4,7 +4,9 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Status-Em_Evolução-brightgreen?style=for-the-badge" alt="Status" />
-  <img src="https://img.shields.io/badge/Disponibilidade-Apenas_no_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Only" />
+<a href="https://javiecourse.netlify.app" target="_blank">
+  <img src="https://img.shields.io/badge/Disponibilidade-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Disponível no Netlify" />
+</a>
 </p>
 
 > Landing page desenvolvida em **HTML5** e **CSS3** puros para a plataforma fictícia de cursos de tecnologia **Javie Course**. Este projeto integra o meu portfólio como um marco prático para documentar e demonstrar o desenvolvimento das minhas habilidades de desenvolvimento web front-end ao longo do tempo.
@@ -64,6 +66,7 @@ O propósito deste projeto no meu portfólio é demonstrar a base de desenvolvim
 - **HTML5:** Marcação semântica e formulário de captura.
 - **CSS3:** Estilos visuais, alinhamentos com Flexbox, efeitos de hover e transições.
 - **Git & GitHub:** Versionamento de código e hospedagem do repositório.
+- **Netlify** Plataforma de hospedagem em nuvem. [Acesse a versão online](https://javiecourse.netlify.app).
 
 ---
 
