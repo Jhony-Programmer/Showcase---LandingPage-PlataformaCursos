@@ -20,7 +20,7 @@ landing page/
 ├── 📁 componentes/
 │   ├── 📁 fonts/             # Tipografias locais e fontes customizadas
 │   └── 📁 images/            # Ilustrações e imagens utilizadas na interface
-│       └── —Pngtree—computer technology notebook design_6994063.png
+│       └── notebook.png
 ├── 📄 .gitignore             # Arquivos e pastas ignorados pelo controle de versão
 ├── 📄 index.html             # Estrutura semântica e conteúdo da landing page
 ├── 📄 README.md              # Documentação completa do projeto
